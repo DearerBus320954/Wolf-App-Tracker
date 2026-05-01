@@ -15,6 +15,13 @@ show you apps that are not just privacy nightmares. But, some can actually damn 
 [^4]: https://www.youtube.com/watch?v=VnUxRahoBJU
 [^5]: https://www.mozillafoundation.org/en/privacynotincluded/praycom/
 
+Some apps that may not be heretical. But, I find suspicious on either doctrinal, consumer protection grounds or views on adiaphora.
+| App Name         | Privacy Status | Notes                                                                                                   | Sources       |
+|------------------|----------------|---------------------------------------------------------------------------------------------------------|---------------|
+| TruPlay          | ⚠️            | One of their games features a song licensed by Hillsong United and you waiver your 7th Amendment rights. It can also desensitize kids to the idea that it's okay for them to not own their games despite trying to protect them from demonic worldviews, etc. Also, no Windows or Linux support.|[^6]           |
+                                     
+[^6]: https://www.truplaygames.com/terms-and-conditions
+
 Here are some alternatives if you need to read scripture on your devices:
 
 | App Name         | Privacy Status | Operating Systems                     |Privacy Policy
