@@ -5,22 +5,25 @@ aside for the sake of staying on topic). On the other hand, it is utterly wicked
 Unlike a Spotify Wrapped chart or Steam Replay badge, this is tantamount to the feds knocking at your door without a warrant. In This repository, I'll
 show you apps that are not just privacy nightmares. But, some can actually damn your soul to Hell. Some are either one, the other or both.
 
-| App Name         | Privacy Status | Wolf Connection   | Sources        |
-|------------------|----------------|-------------------|----------------|
-| YouVersion       | ❌            | Craig Groeschel   | [^1] [^2] [^3] |
-| Pray.com         | ❌            | Various           | [^4] [^5]      |
+| App Name         | Privacy Status | Wolf Connection    | Sources        |
+|------------------|----------------|--------------------|----------------|
+| YouVersion       | ❌            | Craig Groeschel    | [^1] [^2] [^3] |
+| Pray.com         | ❌            | Various            | [^4] [^5]      |
+| MessengerX       | ❌            | John & Lisa Bevere | [^6]           |
 [^1]: https://slate.com/technology/2013/07/youversion-from-lifechurch-tv-bible-app-collects-loads-of-user-data.html
 [^2]: https://outreachmagazine.com/features/78030-bobby-gruenewald-and-craig-groeschel-making-connections.html
 [^3]: https://rumble.com/v72n1rw-a-warning-about-this-bible-app-daily-walk-444.html?e9s=src_v1_cbl%2Csrc_v1_ucp_v
 [^4]: https://www.youtube.com/watch?v=VnUxRahoBJU
 [^5]: https://www.mozillafoundation.org/en/privacynotincluded/praycom/
+[^6]: https://messengerinternational.org/privacy-policy
 
-Some apps that may not be heretical. But, I find suspicious on either doctrinal, consumer protection grounds or views on adiaphora.
+Some apps that may or may not not be heretical. But, I find suspicious on either doctrinal, consumer protection grounds or views on adiaphora.
 | App Name         | Privacy Status | Notes                                                                                                   | Sources       |
 |------------------|----------------|---------------------------------------------------------------------------------------------------------|---------------|
-| TruPlay          | ⚠️            | One of their games features a song licensed by Hillsong United and you waiver your 7th Amendment rights. It can also desensitize kids to the idea that it's okay for them to not own their games despite trying to protect them from demonic worldviews, etc. Also, no Windows or Linux support.|[^6]           |
+| TruPlay          | ⚠️            | One of their games features a song licensed by Hillsong United and you waiver your 7th Amendment rights. It can also desensitize kids to the idea that it's okay for them to not own their games despite supposedly trying to protect them from demonic worldviews, etc. Also, no Windows or Linux support. It's founder is also endorsed by Kris Vallotton.|[^7] [^8]       |
                                      
-[^6]: https://www.truplaygames.com/terms-and-conditions
+[^7]: https://www.truplaygames.com/terms-and-conditions
+[^8]: https://www.youtube.com/watch?v=AGhajMH5p2s
 
 Here are some alternatives if you need to read scripture on your devices:
 
