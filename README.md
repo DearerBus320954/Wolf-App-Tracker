@@ -7,7 +7,7 @@ show you apps that are not just privacy nightmares. But, some can actually damn 
 
 | App Name         | Privacy Status | Wolf Connection    | Sources        |
 |------------------|----------------|--------------------|----------------|
-| YouVersion       | ❌            | Craig Groeschel    | [^1] [^2] [^3] |
+| YouVersion/Bible App For Kids       | ❌            | Craig Groeschel    | [^1] [^2] [^3] |
 | Pray.com         | ❌            | Various            | [^4] [^5]      |
 | MessengerX       | ❌            | John & Lisa Bevere | [^6]           |
 [^1]: https://slate.com/technology/2013/07/youversion-from-lifechurch-tv-bible-app-collects-loads-of-user-data.html
