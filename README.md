@@ -21,9 +21,11 @@ Some apps that may or may not not be heretical. But, I find suspicious on either
 | App Name         | Privacy Status | Notes                                                                                                   | Sources       |
 |------------------|----------------|---------------------------------------------------------------------------------------------------------|---------------|
 | TruPlay          | ⚠️            | One of their games features a song licensed by Hillsong United and you waiver your 7th Amendment rights. It can also desensitize kids to the idea that it's okay for them to not own their games despite supposedly trying to protect them from demonic worldviews, etc. Also, no Windows or Linux support. It's founder is also endorsed by Kris Vallotton.|[^7] [^8]       |
+| Zaia             | ❌            | Almost like a vague evangelical reskin of the likes of Twitter, Bluesky, Threads, etc. Also difficult to access Search without an account |[^9]           |
                                      
 [^7]: https://www.truplaygames.com/terms-and-conditions
 [^8]: https://www.youtube.com/watch?v=AGhajMH5p2s
+[^9]: https://zaia.one/privacy-policy
 
 Here are some alternatives if you need to read scripture on your devices:
 
